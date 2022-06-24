@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1>Rendering at Memegenerator</h1>
+      <h1>Rendering into Branch Master</h1>
       <h3>Creating a conflict</h3>
     </div>
   );
