@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1>Rendering</h1>
+      <h1>Rendering at memegenerator</h1>
     </div>
   );
 }
